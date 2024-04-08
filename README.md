@@ -4,6 +4,8 @@ Progress Report 2 for WUSTL Data Wrangling
 This project focuses on the Extract, Transform, Load (ETL) process specifically tailored for processing Twitter data. 
 The aim is to prepare the data for further analysis （fake twitter detection） or machine learning tasks by cleaning, transforming, and enriching it with additional features. 
 
+data download: https://wustl.box.com/s/cqkxq9cwbrff3uz3td30s964yxybzv7m
+
 Function Descriptions:
 
 ETL Functions： 
